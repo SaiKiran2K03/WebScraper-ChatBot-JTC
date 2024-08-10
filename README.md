@@ -1,4 +1,3 @@
-```markdown
 # Web Scraping Chatbot for Josh Technologies Group
 
 ## Overview
@@ -44,4 +43,3 @@ Feel free to submit issues or pull requests if you have suggestions for improvem
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
