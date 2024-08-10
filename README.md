@@ -15,15 +15,11 @@ This project implements a chatbot that utilizes web scraping and OpenAI's langua
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/SaiKiran2K03/WebScraper-ChatBot-JTC
    ```
 
 2. **Install Dependencies**:
-   Make sure you have Python installed, then install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
+   They are along with the notebook
 
 3. **Run the Jupyter Notebook**:
    Open the Jupyter notebook:
